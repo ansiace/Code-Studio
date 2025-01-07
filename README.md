@@ -36,3 +36,11 @@ We love community contributions! 🌟 Here's how you can get involved:
    git checkout -b feature-name
 3. Make Your Changes and Commit ✅
 4. Submit a Pull Request: Include a brief description of your changes. ✍️
+
+---
+
+## 📬 Stay Connected
+🌐 Follow us on GitHub
+💬 Share your thoughts and suggestions in the Issues section.
+
+⭐ Don't forget to star this repo if you find it helpful! ⭐
