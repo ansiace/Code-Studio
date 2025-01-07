@@ -34,3 +34,5 @@ We love community contributions! 🌟 Here's how you can get involved:
 2. **Create a New Branch**:  
    ```bash
    git checkout -b feature-name
+3. Make Your Changes and Commit ✅
+4. Submit a Pull Request: Include a brief description of your changes. ✍️
