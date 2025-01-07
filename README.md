@@ -17,6 +17,8 @@ This is your one-stop repository for all things coding — from problem-solving 
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/your-username/code-studio.git
+2. **Explore the Folders:** Find challenges and solutions categorized by topic or platform.
+3. **Run the Code:** Follow instructions in individual files to execute code samples.
 
 ---
 
